@@ -1,0 +1,13 @@
+# Name of Project
+**sentence in bold**
+*sentence in italics*
+This is a [link](http://google.com)
+
+*This is an unordered list
+	*bullet
+	*points
+1. This is an ordered list
+	1.Ordered
+	2.sublists
+	3.etc
+printf("Hello World\n");
